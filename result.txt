@@ -1,1 +1,4 @@
+HEAD
 Success
+Exercise completed successfully
+Successful exercise
